@@ -1,4 +1,4 @@
-package kr.jmd.ch001;
+package kr.jmd.tdd;
 
 public class tdd_001 {
 
